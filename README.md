@@ -1,3 +1,3 @@
 # Tech Recommendation System
 
-https://athuljomon.github.io/Tech-Recommendation-Web-App/
+[Visit this link for live demo](https://athuljomon.github.io/Tech-Recommendation-Web-App/)
